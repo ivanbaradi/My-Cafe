@@ -1,0 +1,39 @@
+[
+    {
+        "Item": "Coffee",
+        "Type": "Drink",
+        "Price": 1.99,
+        "Available": 80
+    },
+    {
+        "Item": "Croissant",
+        "Type": "Bakery",
+        "Price": 2.49,
+        "Available": 50
+
+    },
+    {
+        "Item": "Cheese Danish",
+        "Type": "Bakery",
+        "Price": 2.69,
+        "Available": 40
+    },
+    {
+        "Item": "Bacon, Egg & Cheese",
+        "Type": "Sandwich",
+        "Price": 5.49,
+        "Available": 20
+    },
+    {
+        "Item": "Almond Croissant",
+        "Type": "Bakery",
+        "Price": 2.59,
+        "Available": 30
+    },
+    {
+        "Item": "Latte",
+        "Type": "Drink",
+        "Price": 3.09,
+        "Available": 40
+    }
+]
